@@ -1,0 +1,14 @@
+Id: SteelSeries.SteelSeriesEngine
+Version: 3.19.0
+Name: SteelSeriesEngine
+Publisher: SteelSeries
+License:  Copyright (c) SteelSeries ApS
+AppMoniker: SteelSeriesEngine
+Homepage: https://steelseries.com/engine
+Installers:
+  - Arch: x64
+    Url: https://engine.steelseriescdn.com/SteelSeriesEngine3.19.0Setup.exe
+    Sha256: 93db0534afd359284c10a75e6127882d0359cfef65859bff49e0e37c355460f0
+    InstallerType: nullsoft
+    Switches: 
+      Silent: /S
